@@ -3,6 +3,8 @@
 body {
 	background-image:url("4.png");
 	background-color: #cccccc;
+	width: 100px;
+	height: 500px;
 	margin: 0;
 	font-family: Arial, sans-serif;
 	min-height: 100vh;
@@ -94,3 +96,4 @@ button {
 	color: white;
 
 }
+
